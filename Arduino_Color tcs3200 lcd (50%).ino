@@ -20,7 +20,7 @@ void setup()
   lcd.setCursor(0, 1);
   lcd.print(">> Alat Pendeteksi");
   lcd.setCursor(0, 2);
-  lcd.print(">> Bryan.Ruhulessin");
+  lcd.print(">> Created coding");
   lcd.setCursor(0, 3);
   lcd.print(">> Stimik Handayani");
   delay(4000);
